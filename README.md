@@ -20,4 +20,4 @@ O conteúdo está aqui disponibilizado abrange a concepção, desenvolvimento e 
 
 Agradecemos especialmente ao nosso professor orientador, *Paulo Henrique Rodrigues*, que acompanhou de perto os desafios, imprevistos e triunfos ao longo deste projeto.  
 
-![Alt text](DSC02388-2.JPG)
+![DSC02388](https://github.com/LuizVieira11/projeto-integrador-02_2023/assets/134332698/b747f671-0602-471d-8329-ef6deb9cdb23)
